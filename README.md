@@ -63,11 +63,30 @@ Your contributions are greatly appreciated!
 
 ## Getting Started
 
-Download and install the API
+This project requires Python 3.11. Choose one of the setup methods below:
+
+### Option A: Using uv (Recommended)
+
+[uv](https://docs.astral.sh/uv/) is a fast Python package and project manager.
 
 ```bash
-git clone https://github.com/HackLabsGuitar/`Helix-py-api`.git
-cd `Helix-py-api`
+git clone https://github.com/HackLabsGuitar/helix-py-api.git
+cd helix-py-api
+uv venv
+source .venv/bin/activate
+uv pip install -r requirements.txt
+```
+
+### Option B: Using pyenv
+
+[pyenv](https://github.com/pyenv/pyenv) lets you easily switch between multiple versions of Python.
+
+```bash
+git clone https://github.com/HackLabsGuitar/helix-py-api.git
+cd helix-py-api
+pyenv install
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
