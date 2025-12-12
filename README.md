@@ -108,7 +108,7 @@ helix.setlists.export_setlists(file_path="/path/to/setlists")
 ```python
 # Example: Change properties of a setlist, preset, or snapshot
 helix.setlists[0].name = "Setlist 1"
-helix.setlists[1].presets[0]. = "Set2-Pres1"
+helix.setlists[1].presets[0].name = "Set2-Pres1"
 helix.setlists[0].presets[0].snapshots[0].name = "Snapshot 1"
 
 import helixapi.snapshot.LEDColor as LEDColor
