@@ -66,8 +66,8 @@ Your contributions are greatly appreciated!
 Download and install the API
 
 ```bash
-git clone https://github.com/HackLabsGuitar/`Helix-py-api`.git
-cd `Helix-py-api`
+git clone https://github.com/HackLabsGuitar/helix-py-api.git
+cd helix-py-api
 pip install -r requirements.txt
 ```
 
