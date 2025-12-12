@@ -5,9 +5,12 @@
   "meta" : {
    "application" : "HX Edit",
    "appversion" : 57671680,
+   "author" : "",
+   "band" : "",
    "build_sha" : "39f7f9a",
    "modifieddate" : 1715640960,
-   "name" : "New Preset"
+   "name" : "New Preset",
+   "song" : ""
   },
   "tone" : {
    "dsp0" : {
