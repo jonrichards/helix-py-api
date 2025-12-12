@@ -95,7 +95,7 @@ Optionally change any default [settings](https://hacklabsguitar.github.io/helix-
 Create an API instance.
 
 ```python
-import helixapi
+from helixapi.helix import Helix
 
 helix = Helix()
 ```
@@ -103,7 +103,7 @@ helix = Helix()
 This will load a default empty bundle template. You can instead load your own bundle:
 
 ```python
-import helixapi
+from helixapi.helix import Helix
 
 helix = Helix(file_path="/path/to/bundle.hlb")
 ```
