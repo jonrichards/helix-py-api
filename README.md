@@ -2,7 +2,7 @@
 <p align="center">Unofficial API for managing Line 6 Helix files and related devices</p>
 
 <p align="center">
-<a href="https://github.com/HackLabsGuitar/helix-py-api"><img alt="Source Code" src="https://img.shields.io/badge/ource-code-blue?style=flat-square&logoColor=fff&color=0e7acf"/></a>
+<a href="https://github.com/HackLabsGuitar/helix-py-api"><img alt="Source Code" src="https://img.shields.io/badge/source-code-blue?style=flat-square&logoColor=fff&color=0e7acf"/></a>
 <a href="https://github.com/HackLabsGuitar/helix-py-api/issues"><img alt="Issues" src="https://img.shields.io/badge/issue-tracker-blue?style=flat-square&logoColor=fff&color=0e7acf"/></a>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square&logoColor=fff&color=0e7acf"/>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square&logoColor=fff&color=0e7acf"/>
